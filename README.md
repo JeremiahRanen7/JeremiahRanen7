@@ -71,4 +71,4 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%234ea8ed.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-%234ea8ed.svg?style=for-the-badge&logo=seaborn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-%2380b6f4.svg?style=for-the-badge&logo=seaborn&logoColor=white)
