@@ -39,6 +39,8 @@
 ![XML](https://img.shields.io/badge/-XML-ff69b4?style=for-the-badge&logo=xml)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![XML](https://img.shields.io/badge/XML-ff69b4?style=for-the-badge&logo=xml&logoColor=white)
+
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Bower](https://img.shields.io/badge/Bower-EF5734?style=for-the-badge&logo=bower&logoColor=white)
