@@ -44,8 +44,7 @@
 ![Bower](https://img.shields.io/badge/Bower-EF5734?style=for-the-badge&logo=bower&logoColor=white)
 
 #### 🙉 - Backend:
-![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-- **(Basic Level)**
+![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)  - **(Basic Level)**
 
 #### 🙊 - Database:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
