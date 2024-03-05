@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
-- 🔭 I’m currently pursuing my [bachelor's degree](in Artificial Intelligence and data science)
+- 🔭 I’m currently pursuing my bachelor's degree in **Artificial Intelligence and data science**
 
 - 🌱 I’m currently learning **React**.
 
