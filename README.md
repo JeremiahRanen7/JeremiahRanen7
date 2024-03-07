@@ -17,13 +17,6 @@
 
 - 📫 How to reach me **ranencrisfam7@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/jeremiah-ranen-r-74311918b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/jeremiah-ranen-r-74311918b" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:23207552" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23207552" height="30" width="40" /></a>
-<a href="https://medium.com/jeremiah ranen r @ranuravi003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="jeremiah ranen r @ranuravi003" height="30" width="40" /></a>
-</p>
-
 # 💻 Tech Stack:
 
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
