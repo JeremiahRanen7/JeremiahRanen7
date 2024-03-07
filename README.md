@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremiahranen7&label=Profile%20views&color=0e75b6&style=flat" alt="jeremiahranen7" /> </p>
 
-- 🔭 I’m currently pursuing my [bachelor's degree](in Artificial Intelligence and data science)
+- 🔭 I’m currently pursuing my bachelor's degree in Artificial Intelligence and data science.
 
 - 🌱 I’m currently learning **XML, jQuery, React , Tableau**
 
