@@ -30,7 +30,7 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Bower](https://img.shields.io/badge/bower-%23FF5733.svg?style=for-the-badge&logo=bower&logoColor=white)
-[![Curl](https://img.shields.io/badge/Curl-7.79.1-4E4E4E?style=for-the-badge&logo=curl)](https://curl.se/)
+![Curl](https://img.shields.io/badge/Curl-%234E4E4E.svg?&style=for-the-badge&logo=curl&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
