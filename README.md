@@ -59,7 +59,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jeremiah%20Ranen%20R-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jeremiah-ranen-r-74311918b)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Jeremiah%20Ranen%20R-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/23207552/jeremiah-ranen-r)
-[![Medium](https://img.shields.io/badge/Medium-Jeremiah%20Ranen%20R-black?style=flat-square&logo=medium)](https://medium.com/@ranuravi003)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremiah-ranen-r-74311918b)
+![Stack Overflow](https://img.shields.io/badge/stackoverflow-%23FE7A16.svg?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/23207552/jeremiah-ranen-r)
+![Medium](https://img.shields.io/badge/medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ranuravi003)
 
