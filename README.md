@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently pursuing my bachelor's degree in Artificial Intelligence and data science.
 
-- 🌱 I’m currently learning **XML, jQuery, React , Tableau**
+- 🌱 I’m currently learning **React , Hooks**
 
 - 👨‍💻 My Tableau Profile [https://public.tableau.com/app/profile/jeremiah.ranen.r](https://public.tableau.com/app/profile/jeremiah.ranen.r)
 
