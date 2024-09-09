@@ -60,5 +60,3 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ![236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73](https://github.com/user-attachments/assets/7701ad81-c44f-464a-8da2-6ef8c2e8e5cb)
-![acb9a799cec2f5acd31f3d45b65b6169](https://github.com/user-attachments/assets/4dfa3b44-d16d-44e1-b9b7-94cbeb49a11b)
-
