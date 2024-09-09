@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Jeremiah Ranen R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-![Uploading 236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif…]()
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremiahranen7&label=Profile%20views&color=0e75b6&style=flat" alt="jeremiahranen7" /> </p>
 
 - 🔭 I’m currently pursuing my bachelor's degree in Artificial Intelligence and data science.
