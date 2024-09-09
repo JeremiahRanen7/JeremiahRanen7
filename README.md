@@ -5,6 +5,8 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 ![acb9a799cec2f5acd31f3d45b65b6169](https://github.com/user-attachments/assets/f29aa430-c5d5-4c4b-acae-d6a614396c6f)
+![215283228-89a6af16-23b1-4144-ac9b-064dc973b3db](https://github.com/user-attachments/assets/6ecdb07c-e2e5-4ec6-97ce-19463f6e174f)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremiahranen7&label=Profile%20views&color=0e75b6&style=flat" alt="jeremiahranen7" /> </p>
 
