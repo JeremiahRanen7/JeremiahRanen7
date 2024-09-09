@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Jeremiah Ranen R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-![acb9a799cec2f5acd31f3d45b65b6169](https://github.com/user-attachments/assets/f29aa430-c5d5-4c4b-acae-d6a614396c6f)
+![Uploading 236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif…]()
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeremiahranen7&label=Profile%20views&color=0e75b6&style=flat" alt="jeremiahranen7" /> </p>
 
