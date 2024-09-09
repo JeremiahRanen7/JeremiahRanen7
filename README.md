@@ -49,9 +49,6 @@
 ![DevTools](https://img.shields.io/badge/DevTools-%23323330.svg?style=for-the-badge&logo=google-chrome&logoColor=white)
 ![POWER BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-![236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73](https://github.com/user-attachments/assets/7701ad81-c44f-464a-8da2-6ef8c2e8e5cb)
-
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
@@ -61,3 +58,5 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-389826?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
+
+![236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73](https://github.com/user-attachments/assets/7701ad81-c44f-464a-8da2-6ef8c2e8e5cb)
