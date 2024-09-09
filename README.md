@@ -1,4 +1,5 @@
-![images](https://github.com/user-attachments/assets/a762b3ab-7f8d-415e-bd0a-bf5dd552c643)
+![213910845-af37a709-8995-40d6-be59-724526e3c3d7](https://github.com/user-attachments/assets/13e3154a-1454-440a-b36d-dfdbe2031e85)
+
 
 <h1 align="center">Hi 👋, I'm Jeremiah Ranen R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
