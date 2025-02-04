@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing my bachelor's degree in Artificial Intelligence and data science.
 
-- 🌱 I’m currently learning **CSS Frameworks**
+- 🌱 Currently moved away from learning **Web Dev** but will start by SEPT 2025.
 
 - 👨‍💻 My Tableau Profile [https://public.tableau.com/app/profile/jeremiah.ranen.r](https://public.tableau.com/app/profile/jeremiah.ranen.r)
 
