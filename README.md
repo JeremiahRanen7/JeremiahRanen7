@@ -1,4 +1,4 @@
-<img width="739" height="415" alt="image" src="https://github.com/user-attachments/assets/03a2c9bb-5d07-4f0c-8c3e-10309977aff1" />
+<img width="1200" height="415" alt="image" src="https://github.com/user-attachments/assets/03a2c9bb-5d07-4f0c-8c3e-10309977aff1" />
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jeremiah Ranen R
 =========================================================================================================================================
